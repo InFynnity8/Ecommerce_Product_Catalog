@@ -51,7 +51,7 @@ yarn test
 
 ## Deployment
 The application is deployed at the following public URL:
-[https://your-app-domain.com](https://your-app-domain.com)
+[https://ecommerce-product-catalog-rdov9079w-infynnity8s-projects.vercel.app](https://ecommerce-product-catalog-rdov9079w-infynnity8s-projects.vercel.app)
 
 To deploy updates:
 1. Build the production-ready application:

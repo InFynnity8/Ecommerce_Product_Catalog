@@ -16,8 +16,8 @@ Ensure you have the following installed on your local machine:
 ## Installation and Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/InFynnity8/Ecommerce_Product_Catalog.git
+   cd Ecommerce_Product_Catalog.git
    ```
 2. Install dependencies:
    ```bash
@@ -28,12 +28,7 @@ Ensure you have the following installed on your local machine:
    yarn install
    ```
 
-3. Create an `.env` file at the root of the project with necessary environment variables:
-   ```plaintext
-   REACT_APP_API_URL=https://api.example.com
-   ```
-
-4. Start the development server:
+3. Start the development server:
    ```bash
    npm start
    ```

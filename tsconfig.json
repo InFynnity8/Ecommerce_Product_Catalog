@@ -1,0 +1,19 @@
+{
+  "files": [],
+  "references": [
+    { "path": "./tsconfig.app.json" },
+    { "path": "./tsconfig.node.json" }
+  ],
+  "compilerOptions": {
+    "jsx": "react-jsx", // or "react" if you're using React 17 or lower
+    "module": "esnext", // recommended for modern projects
+    "target": "esnext", // for better compatibility with modern JS features
+    "esModuleInterop": true,
+    "strict": true, // optional, for stricter type checking
+    "skipLibCheck": true, // optional, to speed up builds
+    "baseUrl": "./src", // or your base folder
+    "paths": {
+      "@/*": ["./*"]
+    }
+  }
+}
